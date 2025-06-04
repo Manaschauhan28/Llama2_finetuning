@@ -12,5 +12,5 @@ This repository provides code and data for fine-tuning Meta's LLaMA 2 model on a
 
 ## 🚀 Quick Start
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repo-name/blob/main/llama2_finetuning.ipynb](https://colab.research.google.com/drive/1tMN8OVmBO8cjH8rpl5mS3Ahiv5ozUG_Y?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/your-username/your-repo-name/blob/main/llama2_finetuning.ipynb]))
 
